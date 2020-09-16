@@ -1,0 +1,12 @@
+C:\Users\Caroline\Source\Repos\Minedu\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\Caroline\Source\Repos\Minedu\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\Caroline\Source\Repos\Minedu\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\Caroline\Source\Repos\Minedu\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Caroline\Source\Repos\Minedu\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\Caroline\Source\Repos\Minedu\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\Caroline\Source\Repos\Minedu\Datos\obj\Debug\netstandard2.0\Datos.pdb
+C:\Users\Caroline\Source\Repos\Minedu\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+C:\Users\Caroline\Source\Repos\Minedu\Datos\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\Caroline\Source\Repos\Minedu\Datos\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\Caroline\Source\Repos\Minedu\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+C:\Users\Caroline\Source\Repos\Minedu\Datos\obj\Debug\netstandard2.0\Datos.csproj.CoreCompileInputs.cache
